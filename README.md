@@ -1,4 +1,4 @@
-# Crypto-Reading
+# Crypto-Readings
 
 ## FHE
 
