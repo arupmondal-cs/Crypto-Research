@@ -6,6 +6,8 @@ For more details check in this [link](https://github.com/arupmondal-cs/Research-
 
 ## Multi-Party Computation (MPC) 
 
+Must watch [http://cyber.biu.ac.il/event/the-5th-biu-winter-school/](http://cyber.biu.ac.il/event/the-5th-biu-winter-school/). 
+
 For more details check in this [link](https://github.com/arupmondal-cs/awesome-mpc). 
 
 ## TEE/Intel SGX
