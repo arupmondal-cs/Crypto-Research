@@ -8,6 +8,10 @@ For more details check in this [link](https://github.com/arupmondal-cs/Research-
 
 For more details check in this [link](https://github.com/arupmondal-cs/awesome-mpc). 
 
+## TEE/Intel SGX
+
+Good source for Intel SGX papers: [https://github.com/vschiavoni/sgx-papers](https://github.com/vschiavoni/sgx-papers)
+
 
 ## Project
 
