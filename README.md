@@ -9,6 +9,13 @@ Starting Reading Papers:
 * [Fully Homomorphic Encryption over the Integers [FHEInt.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHEInt.pdf). 
 
 
+Video Link:
+
+* [https://youtu.be/xlcb_G1_rzk](https://youtu.be/xlcb_G1_rzk).
+* [https://youtu.be/iER9RkD05Oc](https://youtu.be/iER9RkD05Oc).
+* [https://youtu.be/O8IvJAIvGJo](https://youtu.be/O8IvJAIvGJo).
+* [https://youtu.be/Hl5lMDydMvs](https://youtu.be/Hl5lMDydMvs).
+
 For more details check in this [link](https://github.com/arupmondal-cs/Research-FHE). 
 
 
