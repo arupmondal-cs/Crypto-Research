@@ -27,9 +27,9 @@ For more details check in this [link](https://github.com/arupmondal-cs/awesome-m
 
 ## Secret Sharing (SS) 
 
-Starting Reading Papers:
+Before start reading paper on SS, must look into the [wiki](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing) link. Go through the Shamir Secret Sharing scheme **Example**.
 
-Before start reading paper on SS, must look into the [wiki](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing) link.
+Starting Reading Papers:
 
 * [How to Share Secret [shamirturing.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/shamirturing.pdf). 
 * [Safeguarding cryptographic keys [Safeguarding.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/Safeguarding.pdf).
