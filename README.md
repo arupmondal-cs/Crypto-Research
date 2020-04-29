@@ -3,8 +3,10 @@
 ## Fully Homomorphic Encryption (FHE) 
 
 Starting reading papers: 
-* [paper-1](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/OnDataBanks.pdf). 
-* [paper-2](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHE-gentry.pdf). 
+* [OnDataBanks](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/OnDataBanks.pdf). 
+* [FHe-gentry](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHE-gentry.pdf). 
+* [FHEInt](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHEInt.pdf). 
+
 
 For more details check in this [link](https://github.com/arupmondal-cs/Research-FHE). 
 
