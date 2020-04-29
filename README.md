@@ -68,6 +68,10 @@ Starting Reading Papers:
 * [Time-Lapse Cryptography [TimeLapse-Crypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TimeLapse-Crypto.pdf).
 * [Verifiable Delay Functions [VerDelayFun.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/VerDelayFun.pdf).
 
+Video Link:
+
+* [VDF by Dan Boneh](https://youtu.be/dN-1q8c50q0).
+* [VDF presentation in Crypto 2018](https://youtu.be/_-feyaZZjEw).
 
 
 
