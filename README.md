@@ -53,6 +53,11 @@ Verifiable Secret Sharing:
 
 Start from the following paper: [Intel SGX Explained [IntelSGX.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/IntelSGX.pdf).
 
+Must watch the following videos:
+
+* [Series of lectures on Intel SGX](https://www.youtube.com/playlist?list=PLg-UKERBljNweaATkbbDCcEsRTADAzOl8).
+* [Usage of SGX](https://youtu.be/R8g0Gzdj08E).
+
 ### Intel SGX Attack
 
 First check into the various type of attack on SGX in [wiki](https://en.wikipedia.org/wiki/Software_Guard_Extensions).
