@@ -77,7 +77,7 @@ Papers:
 * [SafeKeeper: Protecting Web Passwords using Trusted Execution Environments [Safekeeper.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Safekeeper.pdf).
 * [Obscuro: A Bitcoin Mixer using Trusted Execution Environments [obscuro.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/obscuro.pdf).
 
-**TEE/SGX has lots of application on Privacy-Preserving Machine Learning field**, find it in the PPML section.
+**TEE/SGX has lots of application on MPC and Privacy-Preserving Machine Learning field**, find it in the MPC and PPML section.
 
 Good source for Intel SGX papers: [https://github.com/vschiavoni/sgx-papers](https://github.com/vschiavoni/sgx-papers)
 
