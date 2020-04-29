@@ -99,6 +99,9 @@ Papers:
 * [SecureNN: 3-Party Secure Computation for Neural Network Training [SecureNN]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/secureNN.pdf).
 * [HybridAlpha: An Efficient Approach for Privacy-Preserving Federated Learning [HybridAlpha.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/HybridAlpha.pdf).
 
+Video Link:
+
+* [SecureML](https://youtu.be/CQxwdqzlgWI).
 
 
 ## Time Lock Puzzle (TLP)/Verifiable Delay Function (VDF)
