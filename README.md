@@ -4,9 +4,9 @@
 
 Starting Reading Papers: 
 
-* [OnDataBanks](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/OnDataBanks.pdf). 
-* [FHe-gentry](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHE-gentry.pdf). 
-* [FHEInt](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHEInt.pdf). 
+* [ON DATA BANKS AND PRIVACY HOMOMORPHISMS (OnDataBanks)](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/OnDataBanks.pdf). 
+* [Computing Arbitrary Functions of Encrypted Data (FHe-gentry)](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHE-gentry.pdf). 
+* [Fully Homomorphic Encryption over the Integers (FHEInt)](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHEInt.pdf). 
 
 
 For more details check in this [link](https://github.com/arupmondal-cs/Research-FHE). 
