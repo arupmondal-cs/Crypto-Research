@@ -2,6 +2,8 @@
 
 ## Fully Homomorphic Encryption (FHE) 
 
+Starting reading papers: [paper-1](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHE-gentry.pdf). 
+
 For more details check in this [link](https://github.com/arupmondal-cs/Research-FHE). 
 
 ## Multi-Party Computation (MPC) 
