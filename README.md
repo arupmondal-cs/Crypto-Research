@@ -4,12 +4,14 @@
 
 Starting Reading Papers: 
 
-* [ON DATA BANKS AND PRIVACY HOMOMORPHISMS (OnDataBanks)](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/OnDataBanks.pdf). 
-* [Computing Arbitrary Functions of Encrypted Data (FHe-gentry)](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHE-gentry.pdf). 
-* [Fully Homomorphic Encryption over the Integers (FHEInt)](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHEInt.pdf). 
+* [ON DATA BANKS AND PRIVACY HOMOMORPHISMS [OnDataBanks.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/OnDataBanks.pdf). 
+* [Computing Arbitrary Functions of Encrypted Data [FHe-gentry.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHE-gentry.pdf). 
+* [Fully Homomorphic Encryption over the Integers [FHEInt.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHEInt.pdf). 
 
 
 For more details check in this [link](https://github.com/arupmondal-cs/Research-FHE). 
+
+
 
 
 
@@ -28,8 +30,8 @@ For more details check in this [link](https://github.com/arupmondal-cs/awesome-m
 Starting Reading Papers:
 
 
-* [shamirturing](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/shamirturing.pdf). 
-
+* [How to Share Secret [shamirturing.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/shamirturing.pdf). 
+* [Safeguarding cryptographic keys [Safeguarding.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/Safeguarding.pdf).
 
 
 
