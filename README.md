@@ -51,6 +51,25 @@ Verifiable Secret Sharing:
 
 ## TEE/Intel SGX
 
+Start from the following paper: [Intel SGX Explained [IntelSHX.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/IntelSGX.pdf).
+
+### Intel SGX Attack
+
+First check into the various type of attack on SGX in [wiki](https://en.wikipedia.org/wiki/Software_Guard_Extensions).
+
+Papers:
+
+* [A Systematic Evaluation of Transient Execution Attacks and Defenses [TransientEx-Atk.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/TransientEx-Atk.pdf).
+* [SGXPECTRE: Stealing Intel Secrets from SGX Enclaves via Speculative Execution [SGXPECTRE.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/SGXPECTRE.pdf).
+* [Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution [Foreshadow.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/Foreshadow.pdf).
+
+
+### Application of TEE
+
+Paper:
+
+* [Teechain: A Secure Payment Network with Asynchronous Blockchain Access [TEEchain.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/TEEchain.pdf).
+
 Good source for Intel SGX papers: [https://github.com/vschiavoni/sgx-papers](https://github.com/vschiavoni/sgx-papers)
 
 
