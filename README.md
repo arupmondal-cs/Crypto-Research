@@ -37,7 +37,7 @@ Starting Reading Papers:
 
 Verifiable Secret Sharing:
 
-* [A Practical Scheme for Non-interactive Verifiable Secret Sharing[feldmanVSS.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/feldmanVSS.pdf).
+* [A Practical Scheme for Non-interactive Verifiable Secret Sharing [feldmanVSS.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/feldmanVSS.pdf).
 
 
 
@@ -64,9 +64,9 @@ Must watch before reading [https://youtu.be/4zrU54VIK6k](https://youtu.be/4zrU54
 
 Starting Reading Papers:
 
-* [Time lock puzzles and timed release Crypto[TLPCrypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TLPCrypto.pdf).
-* [Time-Lapse Cryptography[TimeLapse-Crypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TimeLapse-Crypto.pdf).
-* [Verifiable Delay Functions[VerDelayFun.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/VerDelayFun.pdf).
+* [Time lock puzzles and timed release Crypto [TLPCrypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TLPCrypto.pdf).
+* [Time-Lapse Cryptography [TimeLapse-Crypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TimeLapse-Crypto.pdf).
+* [Verifiable Delay Functions [VerDelayFun.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/VerDelayFun.pdf).
 
 
 
