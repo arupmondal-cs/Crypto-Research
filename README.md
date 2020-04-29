@@ -66,9 +66,13 @@ Papers:
 
 ### Application of TEE
 
-Paper:
+Papers:
 
 * [Teechain: A Secure Payment Network with Asynchronous Blockchain Access [TEEchain.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/TEEchain.pdf).
+* [SafeKeeper: Protecting Web Passwords using Trusted Execution Environments [Safekeeper.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Safekeeper.pdf).
+* [Obscuro: A Bitcoin Mixer using Trusted Execution Environments [obscuro.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/obscuro.pdf).
+
+**TEE/SGX has lots of application on Privacy-Preserving Machine Learning field**, find it in the PPML section.
 
 Good source for Intel SGX papers: [https://github.com/vschiavoni/sgx-papers](https://github.com/vschiavoni/sgx-papers)
 
@@ -112,5 +116,6 @@ Video Link:
 
 * Building a Dynamic Time Lock Puzzle.
 * Writing a SoK (Review or Survey) paper on Intel SGX Attack.
-* Creating Leakage Resilient Homomorphic Secret Sharing.
+* Building a Leakage Resilient Homomorphic Secret Sharing Scheme.
+* Construct an efficient PPML scheme.
 
