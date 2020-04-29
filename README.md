@@ -51,7 +51,7 @@ Verifiable Secret Sharing:
 
 ## TEE/Intel SGX
 
-Start from the following paper: [Intel SGX Explained [IntelSHX.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/IntelSGX.pdf).
+Start from the following paper: [Intel SGX Explained [IntelSGX.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/IntelSGX.pdf).
 
 ### Intel SGX Attack
 
