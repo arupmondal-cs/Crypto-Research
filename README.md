@@ -35,6 +35,9 @@ Starting Reading Papers:
 * [Safeguarding cryptographic keys [Safeguarding.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/Safeguarding.pdf).
 
 
+Verifiable Secret Sharing:
+
+* [A Practical Scheme for Non-interactive Verifiable Secret Sharing[feldmanVSS.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/feldmanVSS.pdf).
 
 
 ## TEE/Intel SGX
