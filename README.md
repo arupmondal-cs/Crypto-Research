@@ -40,6 +40,8 @@ Verifiable Secret Sharing:
 * [A Practical Scheme for Non-interactive Verifiable Secret Sharing[feldmanVSS.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/feldmanVSS.pdf).
 
 
+
+
 ## TEE/Intel SGX
 
 Good source for Intel SGX papers: [https://github.com/vschiavoni/sgx-papers](https://github.com/vschiavoni/sgx-papers)
@@ -53,6 +55,18 @@ Good source for Intel SGX papers: [https://github.com/vschiavoni/sgx-papers](htt
 
 Must watch before reading [https://youtu.be/4zrU54VIK6k](https://youtu.be/4zrU54VIK6k). 
 
+
+
+
+
+## Time Lock Puzzle (TLP)/Verifiable Delay Function (VDF)
+
+
+Starting Reading Papers:
+
+* [Time lock puzzles and timed release Crypto[TLPCrypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TLPCrypto.pdf).
+* [Time-Lapse Cryptography[TimeLapse-Crypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TimeLapse-Crypto.pdf).
+* [Verifiable Delay Functions[VerDelayFun.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/VerDelayFun.pdf).
 
 
 
