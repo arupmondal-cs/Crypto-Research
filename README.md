@@ -130,11 +130,17 @@ Must watch the following videos:
 * [The Mathematics of Lattices 2 by Vinod Vaikuntanathan](https://youtu.be/SZkTJMorxnM). 
 
 
-Lecture Notes:
+Course on Lattice Cryptography:
 
 * Advanced Topics in Cryptography by Vinod Vaikuntanathan. 
-  [Course Page](https://people.csail.mit.edu/vinodv/6876-Fall2015/index.html). 
-  [Course Notes] (). 
+  [[Course Page]](https://people.csail.mit.edu/vinodv/6876-Fall2015/index.html) 
+  [[Course Notes]](https://github.com/arupmondal-cs/Crypto-Reading/tree/master/Lattice/Notes). 
+
+* Lattices in Computer Science by Oded Regev
+  [[Course Page]](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/). 
+
+
+
 
 
 ## Project
