@@ -1,11 +1,12 @@
 # Crypto-Readings
 
 ## Cryptology ePrint Archive: Recent Updates
-   [Click here](https://eprint.iacr.org/eprint-bin/search.pl?last=7&title=1). 
+* [Click here](https://eprint.iacr.org/eprint-bin/search.pl?last=7&title=1)
 
 
 ## Top Cyber Security Conferences Ranking
-   [Link](http://jianying.space/conference-ranking.html). 
+* [Link-1](http://jianying.space/conference-ranking.html)
+* [Link-2](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
 
 
 ## Fully Homomorphic Encryption (FHE) 
