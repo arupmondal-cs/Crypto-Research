@@ -1,4 +1,4 @@
-# Crypto-Readings
+# Cryptography Research 
 
 ## Cryptology ePrint Archive: Recent Updates
 * [Click here](https://eprint.iacr.org/eprint-bin/search.pl?last=7&title=1)
