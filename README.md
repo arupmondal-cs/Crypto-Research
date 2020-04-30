@@ -18,7 +18,7 @@ Starting Reading Papers:
 * [Computing Arbitrary Functions of Encrypted Data [FHe-gentry.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHE-gentry.pdf). 
 * [Fully Homomorphic Encryption over the Integers [FHEInt.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHEInt.pdf). 
 
-For other papers click [here](https://github.com/arupmondal-cs/Crypto-Research/tree/master/FHE). 
+For more papers click [here](https://github.com/arupmondal-cs/Crypto-Research/tree/master/FHE). 
 
 Video Link:
 
@@ -109,6 +109,8 @@ Papers:
 * [SecureML: A System for Scalable Privacy-Preserving Machine Learning [SecureML]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/SecureML.pdf).
 * [SecureNN: 3-Party Secure Computation for Neural Network Training [SecureNN]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/secureNN.pdf).
 * [HybridAlpha: An Efficient Approach for Privacy-Preserving Federated Learning [HybridAlpha.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/HybridAlpha.pdf).
+
+For more papers click [here](https://github.com/arupmondal-cs/Crypto-Research/tree/master/PPML). 
 
 Video Link:
 
