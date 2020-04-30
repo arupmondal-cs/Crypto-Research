@@ -5,8 +5,8 @@
 
 
 ## Top Cyber Security Conferences Ranking
-* [Link-1](http://jianying.space/conference-ranking.html)
-* [Link-2](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
+* [Link-1](http://jianying.space/conference-ranking.html) by Jianying Zhou. 
+* [Link-2](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) by Guofei Gu. 
 
 
 ## Fully Homomorphic Encryption (FHE) 
