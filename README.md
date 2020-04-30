@@ -121,8 +121,7 @@ Video Link:
 
 ## Post Quantum Cryptography [[wiki]](https://en.m.wikipedia.org/wiki/Post-quantum_cryptography)
 
-### Lattice [[wiki]](https://en.m.wikipedia.org/wiki/Lattice-based_cryptography)
-    [[Medium]](https://medium.com/cryptoblog/what-is-lattice-based-cryptography-why-should-you-care-dbf9957ab717)
+### Lattice [[wiki]](https://en.m.wikipedia.org/wiki/Lattice-based_cryptography) [[Medium]](https://medium.com/cryptoblog/what-is-lattice-based-cryptography-why-should-you-care-dbf9957ab717)
 
 
 Must watch the following videos:
