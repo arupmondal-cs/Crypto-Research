@@ -4,7 +4,7 @@
 * [Click here](https://eprint.iacr.org/eprint-bin/search.pl?last=7&title=1)
 
 
-## Top Cyber Security Conferences Ranking
+## Top Cryptography and Security Conferences Ranking
 * [List](http://jianying.space/conference-ranking.html) by Jianying Zhou. 
 * [List](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) by Guofei Gu. 
 
