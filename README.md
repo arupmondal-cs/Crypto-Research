@@ -119,6 +119,23 @@ Video Link:
 * [VDF presentation in Crypto 2018](https://youtu.be/_-feyaZZjEw).
 
 
+## Post Quantum Cryptography
+
+### Lattice
+
+Must watch the following videos:
+
+* [Introduction of Lattices by Oded Regev](https://youtu.be/4ulHOV8iLls). 
+* [The Mathematics of Lattices 1 by Vinod Vaikuntanathan](https://youtu.be/LlPXfy6bKIY). 
+* [The Mathematics of Lattices 2 by Vinod Vaikuntanathan](https://youtu.be/SZkTJMorxnM). 
+
+
+Lecture Notes:
+
+* Advanced Topics in Cryptography by Vinod Vaikuntanathan. 
+  [Course Page](https://people.csail.mit.edu/vinodv/6876-Fall2015/index.html). 
+  [Course Notes] (). 
+
 
 ## Project
 
