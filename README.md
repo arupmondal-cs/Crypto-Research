@@ -159,6 +159,7 @@ Course on Lattice Cryptography:
 
 ## Project
 
+* **FHE Scheme** implementation (FHE over Integer [[Paper]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHEInt.pdf)). 
 * Building a Dynamic Time Lock Puzzle.
 * Writing a SoK (Review or Survey) paper on Intel SGX Attack.
 * Building a Leakage Resilient Homomorphic Secret Sharing Scheme.
