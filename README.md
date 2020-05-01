@@ -103,12 +103,12 @@ Must watch before reading [https://youtu.be/4zrU54VIK6k](https://youtu.be/4zrU54
 
 Papers:
 
-* [Oblivious Multi-Party Machine Learning on Trusted Processors [ObliviousMP-TEE.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/ObliviousMP-TEE.pdf).
-* [SLALOM: FAST, VERIFIABLE AND PRIVATE EXECUTION OF NEURAL NETWORKS IN TRUSTED HARDWARE [SLALOM.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/SLALOM.pdf).
-* [FLASH: Fast and Robust Framework for Privacy-preserving Machine Learning [FLASH.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/FLASH.pdf).
-* [SecureML: A System for Scalable Privacy-Preserving Machine Learning [SecureML]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/SecureML.pdf).
-* [SecureNN: 3-Party Secure Computation for Neural Network Training [SecureNN]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/secureNN.pdf).
-* [HybridAlpha: An Efficient Approach for Privacy-Preserving Federated Learning [HybridAlpha.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/HybridAlpha.pdf).
+* Oblivious Multi-Party Machine Learning on Trusted Processors [[ObliviousMP-TEE.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/ObliviousMP-TEE.pdf).
+* SLALOM: FAST, VERIFIABLE AND PRIVATE EXECUTION OF NEURAL NETWORKS IN TRUSTED HARDWARE [[SLALOM.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/SLALOM.pdf).
+* FLASH: Fast and Robust Framework for Privacy-preserving Machine Learning [[FLASH.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/FLASH.pdf).
+* SecureML: A System for Scalable Privacy-Preserving Machine Learning [[SecureML]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/SecureML.pdf).
+* SecureNN: 3-Party Secure Computation for Neural Network Training [[SecureNN]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/secureNN.pdf).
+* HybridAlpha: An Efficient Approach for Privacy-Preserving Federated Learning [[HybridAlpha.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/PPML/HybridAlpha.pdf).
 
 For more papers click [here](https://github.com/arupmondal-cs/Crypto-Research/tree/master/PPML). 
 
@@ -122,9 +122,9 @@ Video Link:
 
 Starting Reading Papers:
 
-* [Time lock puzzles and timed release Crypto [TLPCrypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TLPCrypto.pdf).
-* [Time-Lapse Cryptography [TimeLapse-Crypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TimeLapse-Crypto.pdf).
-* [Verifiable Delay Functions [VerDelayFun.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/VerDelayFun.pdf).
+* Time lock puzzles and timed release Crypto [[TLPCrypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TLPCrypto.pdf).
+* Time-Lapse Cryptography [[TimeLapse-Crypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TimeLapse-Crypto.pdf).
+* Verifiable Delay Functions [[VerDelayFun.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/VerDelayFun.pdf).
 
 Video Link:
 
