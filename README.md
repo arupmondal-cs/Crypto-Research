@@ -14,9 +14,9 @@ You can find cryptography related all conference information in the below two li
 
 Starting Reading Papers: 
 
-* [ON DATA BANKS AND PRIVACY HOMOMORPHISMS [OnDataBanks.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/OnDataBanks.pdf). 
-* [Computing Arbitrary Functions of Encrypted Data [FHe-gentry.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHE-gentry.pdf). 
-* [Fully Homomorphic Encryption over the Integers [FHEInt.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHEInt.pdf). 
+* ON DATA BANKS AND PRIVACY HOMOMORPHISMS [[OnDataBanks.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/OnDataBanks.pdf). 
+* Computing Arbitrary Functions of Encrypted Data [[FHe-gentry.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHE-gentry.pdf). 
+* Fully Homomorphic Encryption over the Integers [[FHEInt.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/FHE/FHEInt.pdf). 
 
 For more papers click [here](https://github.com/arupmondal-cs/Crypto-Research/tree/master/FHE). 
 
@@ -49,13 +49,13 @@ Before start reading paper on SS, must look into the [wiki](https://en.wikipedia
 
 Starting Reading Papers:
 
-* [How to Share Secret [shamirturing.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/shamirturing.pdf). 
-* [Safeguarding cryptographic keys [Safeguarding.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/Safeguarding.pdf).
+* How to Share Secret [[shamirturing.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/shamirturing.pdf). 
+* Safeguarding cryptographic keys [[Safeguarding.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/Safeguarding.pdf).
 
 
 Verifiable Secret Sharing:
 
-* [A Practical Scheme for Non-interactive Verifiable Secret Sharing [feldmanVSS.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/feldmanVSS.pdf).
+* A Practical Scheme for Non-interactive Verifiable Secret Sharing [[feldmanVSS.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/Secret%20Sharing/feldmanVSS.pdf).
 
 
 
@@ -75,18 +75,18 @@ First check into the various type of attack on SGX in [wiki](https://en.wikipedi
 
 Papers:
 
-* [A Systematic Evaluation of Transient Execution Attacks and Defenses [TransientEx-Atk.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/TransientEx-Atk.pdf).
-* [SGXPECTRE: Stealing Intel Secrets from SGX Enclaves via Speculative Execution [SGXPECTRE.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/SGXPECTRE.pdf).
-* [Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution [Foreshadow.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/Foreshadow.pdf).
+* A Systematic Evaluation of Transient Execution Attacks and Defenses [[TransientEx-Atk.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/TransientEx-Atk.pdf).
+* SGXPECTRE: Stealing Intel Secrets from SGX Enclaves via Speculative Execution [[SGXPECTRE.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/SGXPECTRE.pdf).
+* Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution [[Foreshadow.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Intel%20SGX/Foreshadow.pdf).
 
 
 ### Application of TEE
 
 Papers:
 
-* [Teechain: A Secure Payment Network with Asynchronous Blockchain Access [TEEchain.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/TEEchain.pdf).
-* [SafeKeeper: Protecting Web Passwords using Trusted Execution Environments [Safekeeper.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Safekeeper.pdf).
-* [Obscuro: A Bitcoin Mixer using Trusted Execution Environments [obscuro.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/obscuro.pdf).
+* Teechain: A Secure Payment Network with Asynchronous Blockchain Access [[TEEchain.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/TEEchain.pdf).
+* SafeKeeper: Protecting Web Passwords using Trusted Execution Environments [[Safekeeper.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/Safekeeper.pdf).
+* Obscuro: A Bitcoin Mixer using Trusted Execution Environments [[obscuro.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TEE/obscuro.pdf).
 
 **TEE/SGX has lots of application on MPC and Privacy-Preserving Machine Learning field**, find it in the MPC and PPML section.
 
