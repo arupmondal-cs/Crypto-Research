@@ -27,8 +27,7 @@ Video Link:
 * [https://youtu.be/O8IvJAIvGJo](https://youtu.be/O8IvJAIvGJo).
 * [https://youtu.be/Hl5lMDydMvs](https://youtu.be/Hl5lMDydMvs).
 
-For more details check in this [link](https://github.com/arupmondal-cs/Research-FHE). 
-
+For more details check in this [link](https://github.com/arupmondal-cs/Research-FHE) and [link](https://homomorphicencryption.org). 
 
 
 
