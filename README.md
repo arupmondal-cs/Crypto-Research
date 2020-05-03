@@ -111,6 +111,10 @@ Papers:
 
 For more papers click [here](https://github.com/arupmondal-cs/Crypto-Research/tree/master/PPML). 
 
+Good Resources:
+
+* [Obliv-C](https://oblivc.org).
+
 Video Link:
 
 * [SecureML](https://youtu.be/CQxwdqzlgWI).
