@@ -32,7 +32,7 @@ For more details check in this [link](https://github.com/arupmondal-cs/Research-
 
 
 
-## Multi-Party Computation (MPC) 
+## Multi-Party Computation (MPC) [[wiki]](https://en.wikipedia.org/wiki/Secure_multi-party_computation)
 
 Must watch [http://cyber.biu.ac.il/event/the-5th-biu-winter-school/](http://cyber.biu.ac.il/event/the-5th-biu-winter-school/). 
 
