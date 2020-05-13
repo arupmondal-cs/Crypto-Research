@@ -122,7 +122,7 @@ Video Link:
 
 ## Time Lock Puzzle (TLP)/Verifiable Delay Function (VDF)
 
-
+Good Research Details: [https://vdfresearch.org](https://vdfresearch.org)
 Starting Reading Papers:
 
 * Time lock puzzles and timed release Crypto [[TLPCrypto.pdf]](https://github.com/arupmondal-cs/Crypto-Reading/blob/master/TLP-VDF/TLPCrypto.pdf).
